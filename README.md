@@ -35,6 +35,9 @@ Data sourced from [[Adventure Works Sample Dataset by Microsoft](https://learn.m
 ## 📸 Screenshots
 
 ![Screenshot 2025-07-02 130212](https://github.com/user-attachments/assets/0849b525-3f5e-4107-b400-30fbb8e14172)
+![Screenshot 2025-07-04 133103](https://github.com/user-attachments/assets/758766bd-393a-465b-b2c7-bcb62941475d)
+![Screenshot 2025-07-04 133034](https://github.com/user-attachments/assets/9e2c798f-6948-431b-a206-345a860085db)
+![Screenshot 2025-07-04 133047](https://github.com/user-attachments/assets/6472a81a-992c-47c3-aba2-5b29fb516598)
 
 ---
 
